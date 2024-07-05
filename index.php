@@ -83,8 +83,7 @@
             <div class="card-inner">
                         
             <img class="rounded float-start z-0" style="width: 18.3rem; height: 22.3rem; top:-1%; left:-1%;" src="
-            cartaFundo.jpg" alt="">
-                        
+            cartaFundo.jpg" alt=""> 
                 <div id="carta-frente" class="card-frente card-body">
                 <h5 class="card-title text-center m-4 z-3 text-light">';echo $data_carta; echo '</h5>
                 <p class="card-text text-center text-break m-12 z-3 text-light">Passe o mouse na carta para revelar uma mensagem misteriosa</p>
